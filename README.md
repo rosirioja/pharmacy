@@ -1,7 +1,7 @@
 pharmacy
 ========
 
-This website is like inventory of medicines in a pharmaceutical shop.
+This website is school project made to be like an inventory of medicines in a pharmaceutical shop.
 Basically CRUD (inventory, suppliers, customer sales, users)
 
 It also contains cashier module, wherein customers can buy products found in the inventory, 
